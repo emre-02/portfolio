@@ -11,7 +11,7 @@
 - I have been actively involved in front-end development, design, and user experence optimzation of webpages using HTML and CSS.
 
 
-**Data Scientst @ Akrha Technology (_Nov 2023  - Present_)**
+**Data Scientst @ Akriha Technology (_Nov 2023  - Present_)**
 - I use artifcal intellgence in Image Processng in the field of Data Science and Machine learning and develop AI-supported solutons for products
 
 
