@@ -3,8 +3,11 @@
 #### Technical Skills: Python, SQL, Pandas, Seaborn, Matplotlib, Scikit-learn
 
 ## Education
-- Computer Programming | Adıyaman Unversty (_Aug 2019_)						       		
+- Computer Programming | Adıyaman Unversty (_Aug 2019_)
 
+						       		
+## About Me
+- I am a data-driven, analytical, and solution-oriented individual. Proficient in Python, I am adept at cleaning, transforming, and analyzing complex datasets. I have specialized in developing machine learning models, data visualization, and reporting. Additionally, my project management skills allow me to collaborate effectively with cross-functional teams and deliver successful projects.
 
 ## Work Experience
 **Frontend Developer @ Kilopi (_Mar 2023 - Sep 2023_)**
