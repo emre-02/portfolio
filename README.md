@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Pandas, Seaborn, Matplotlib, Scikit-learn
